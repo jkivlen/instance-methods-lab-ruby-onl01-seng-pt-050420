@@ -1,5 +1,6 @@
 class Dog
-end
 
-fido = Dog.new
-fido.methods
+def bark
+  puts "Woof!"
+end
+end
